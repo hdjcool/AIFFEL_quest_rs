@@ -1,5 +1,7 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 황동주
+  - 참고 : 고화질 이미지가 첨부 되어 노트북 파일 사이즈가 큰 관계로 github.dev 로 열거나 pull 해서 로컬에서 열어야 합니다.
+    ![image](https://github.com/user-attachments/assets/30449a1d-7b6b-470c-aff5-d18816a38f87)
 - 리뷰어 : 김영민
 
 
