@@ -1,5 +1,8 @@
+## 해당 프로젝트는 아래 git repo 에 업로드 되어 있습니다.
+https://github.com/hdjcool/AIFFEL_DLThon_1
+
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 황동주
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
 
