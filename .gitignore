@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.keras
+# Ignore all checkpoints directories
+**/checkpoints/
