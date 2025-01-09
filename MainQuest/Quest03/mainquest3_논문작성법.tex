@@ -169,12 +169,8 @@ To efficiently preprocess input images and keypoint data, we designed a Preproce
         \item Invisible keypoints (visibility == 0) are excluded from the heatmap.
         \item The heatmap consists of 16 channels, one for each keypoint.
     \end{enumerate}
-    \item Dataset Parsing:
-    \begin{enumerate}
-        \item TensorFlow’s tf.io.parse\_single\_example function is used to parse TFRecord-formatted data.
-        \item Key features extracted include image/encoded, image/object/parts/x, image/object/parts/y, and image/object/parts/v.
+    \item Dataset Parsing
     \end{enumerate}
-\end{enumerate}
 
 This preprocessing pipeline ensures that the data is clean, normalized, and properly formatted for effective model training and evaluation.
 
